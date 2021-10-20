@@ -1,0 +1,11 @@
+C:\Users\domin\source\repos\TicTacToeV2\TicTacToeV2\bin\Debug\TicTacToeV2.exe.config
+C:\Users\domin\source\repos\TicTacToeV2\TicTacToeV2\bin\Debug\TicTacToeV2.exe
+C:\Users\domin\source\repos\TicTacToeV2\TicTacToeV2\bin\Debug\TicTacToeV2.pdb
+C:\Users\domin\source\repos\TicTacToeV2\TicTacToeV2\obj\Debug\TicTacToeV2.csprojAssemblyReference.cache
+C:\Users\domin\source\repos\TicTacToeV2\TicTacToeV2\obj\Debug\TicTacToeV2.Form1.resources
+C:\Users\domin\source\repos\TicTacToeV2\TicTacToeV2\obj\Debug\TicTacToeV2.Properties.Resources.resources
+C:\Users\domin\source\repos\TicTacToeV2\TicTacToeV2\obj\Debug\TicTacToeV2.csproj.GenerateResource.cache
+C:\Users\domin\source\repos\TicTacToeV2\TicTacToeV2\obj\Debug\TicTacToeV2.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\TicTacToeV2\TicTacToeV2\obj\Debug\TicTacToeV2.exe
+C:\Users\domin\source\repos\TicTacToeV2\TicTacToeV2\obj\Debug\TicTacToeV2.pdb
+C:\Users\domin\source\repos\TicTacToeV2\TicTacToeV2\obj\Debug\TicTacToeV2.lenta.resources

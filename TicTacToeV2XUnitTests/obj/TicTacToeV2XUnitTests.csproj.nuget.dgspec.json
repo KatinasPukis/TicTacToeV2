@@ -1,0 +1,98 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\domin\\source\\repos\\TicTacToeV2\\TicTacToeV2XUnitTests\\TicTacToeV2XUnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\domin\\source\\repos\\TicTacToeV2\\TicTacToeV2XUnitTests\\TicTacToeV2XUnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\domin\\source\\repos\\TicTacToeV2\\TicTacToeV2XUnitTests\\TicTacToeV2XUnitTests.csproj",
+        "projectName": "TicTacToeV2XUnitTests",
+        "projectPath": "C:\\Users\\domin\\source\\repos\\TicTacToeV2\\TicTacToeV2XUnitTests\\TicTacToeV2XUnitTests.csproj",
+        "packagesPath": "C:\\Users\\domin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\domin\\source\\repos\\TicTacToeV2\\TicTacToeV2XUnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\domin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\domin\\source\\repos\\TicTacToeV2\\TicTacToeV2\\TicTacToeV2.csproj": {
+                "projectPath": "C:\\Users\\domin\\source\\repos\\TicTacToeV2\\TicTacToeV2\\TicTacToeV2.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\domin\\source\\repos\\TicTacToeV2\\TicTacToeV2\\TicTacToeV2.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\domin\\source\\repos\\TicTacToeV2\\TicTacToeV2\\TicTacToeV2.csproj",
+        "projectName": "TicTacToeV2",
+        "projectPath": "C:\\Users\\domin\\source\\repos\\TicTacToeV2\\TicTacToeV2\\TicTacToeV2.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
